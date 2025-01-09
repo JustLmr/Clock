@@ -1,0 +1,14 @@
+#my-paragraph{
+    font-size:20px;
+}
+
+#clock{
+    font-size: 200px;
+}
+
+.navbar-start{
+    display: none;
+}
+.navbar-end{
+    display: none;
+}
